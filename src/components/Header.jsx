@@ -1,10 +1,13 @@
 import React from 'react';
 
+
+
 export const Header = () => {
     return (
-        <div>
-            <nav>hello</nav>
-        </div>
+        <header>
+            <img src="src/assets/globe.png" alt="globe"/>
+            <h1>my travel journal.</h1>
+        </header>
     );
 };
 
