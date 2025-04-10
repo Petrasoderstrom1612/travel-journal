@@ -35,4 +35,16 @@ export default [
         dates: "01 Oct, 2021 - 18 Nov, 2021",
         text: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality."
     },
+    {
+        id: 4,
+        img: {
+            src: "https://s7g10.scene7.com/is/image/barcelo/best-places-to-visit-in-prague_sights-to-see-in-prague?&&fmt=webp-alpha&qlt=75&wid=2000&fit=crop,1",
+            alt: "Prague"
+        },
+        title: "Prague",
+        country: "Czechia",
+        googleMapsLink: "https://www.google.com/maps/@50.0880400,14.4207600,13z",
+        dates: "19 Dec, 2021 - 1 Jan, 2025",
+        text: "Prague is the capital city, of Czechia. It is a historical city visited by turists from all over the world."
+    },
 ]
